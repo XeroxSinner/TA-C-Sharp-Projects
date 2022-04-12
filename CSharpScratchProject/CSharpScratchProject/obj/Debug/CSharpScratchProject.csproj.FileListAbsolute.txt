@@ -1,0 +1,8 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\bin\Debug\CSharpScratchProject.exe.config
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\bin\Debug\CSharpScratchProject.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\bin\Debug\CSharpScratchProject.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\obj\Debug\CSharpScratchProject.csproj.AssemblyReference.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\obj\Debug\CSharpScratchProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\obj\Debug\CSharpScratchProject.csproj.CoreCompileInputs.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\obj\Debug\CSharpScratchProject.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\CSharpScratchProject\CSharpScratchProject\obj\Debug\CSharpScratchProject.pdb
