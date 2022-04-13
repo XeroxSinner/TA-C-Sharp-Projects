@@ -24,20 +24,20 @@ class DailyReport
         short studentNumber = Convert.ToInt16(Console.ReadLine());
         Console.WriteLine(studentNumber + " is a great spot.");
 
-        //I feel like bool.Parse would be something that could be used here, esp if data needed to be flagged somehow, but I'm unsure how to incorporate.
-        //Alternative solution for custom output utilizing string, would ideally incorporate a while loop perhaps?
+
         Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\".");
         string studentHelp = Console.ReadLine().Trim().ToLower(); //Trim and ToLower to make inputs uniform
-        if (studentHelp == "true")
+        //Convert string to bool, however with this need exception handling
+        bool studentHelpBool = Convert.ToBoolean(studentHelp);
+        if (studentHelpBool == true)
         {
             Console.WriteLine("An instructor would be glad to help, we'll give you a call.");
-        } else if (studentHelp == "false")
+        }
+        else if (studentHelpBool == false)
         {
             Console.WriteLine("Excellent!");
-        } else
-        {
-            Console.WriteLine("Input not recognized.");
-        }     
+        }
+    
            
         Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
         string studentExperience = Console.ReadLine();
