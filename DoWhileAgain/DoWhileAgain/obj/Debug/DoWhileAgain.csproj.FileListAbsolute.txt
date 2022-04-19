@@ -1,0 +1,7 @@
+C:\Users\nylan\Documents\GitHub\Clone\DoWhileAgain\DoWhileAgain\bin\Debug\DoWhileAgain.exe.config
+C:\Users\nylan\Documents\GitHub\Clone\DoWhileAgain\DoWhileAgain\bin\Debug\DoWhileAgain.exe
+C:\Users\nylan\Documents\GitHub\Clone\DoWhileAgain\DoWhileAgain\bin\Debug\DoWhileAgain.pdb
+C:\Users\nylan\Documents\GitHub\Clone\DoWhileAgain\DoWhileAgain\obj\Debug\DoWhileAgain.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\Clone\DoWhileAgain\DoWhileAgain\obj\Debug\DoWhileAgain.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\Clone\DoWhileAgain\DoWhileAgain\obj\Debug\DoWhileAgain.exe
+C:\Users\nylan\Documents\GitHub\Clone\DoWhileAgain\DoWhileAgain\obj\Debug\DoWhileAgain.pdb
