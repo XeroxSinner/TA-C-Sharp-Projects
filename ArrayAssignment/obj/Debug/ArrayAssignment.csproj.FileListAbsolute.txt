@@ -1,0 +1,7 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
