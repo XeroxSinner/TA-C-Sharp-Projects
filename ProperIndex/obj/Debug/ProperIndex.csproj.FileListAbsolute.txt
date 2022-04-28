@@ -1,0 +1,8 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\bin\Debug\ProperIndex.exe.config
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\bin\Debug\ProperIndex.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\bin\Debug\ProperIndex.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\obj\Debug\ProperIndex.csproj.AssemblyReference.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\obj\Debug\ProperIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\obj\Debug\ProperIndex.csproj.CoreCompileInputs.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\obj\Debug\ProperIndex.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ProperIndex\obj\Debug\ProperIndex.pdb
