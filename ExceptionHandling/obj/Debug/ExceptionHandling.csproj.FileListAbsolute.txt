@@ -1,0 +1,8 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
