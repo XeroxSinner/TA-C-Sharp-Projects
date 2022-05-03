@@ -1,0 +1,8 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\bin\Debug\ForEachIndex.exe.config
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\bin\Debug\ForEachIndex.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\bin\Debug\ForEachIndex.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\obj\Debug\ForEachIndex.csproj.AssemblyReference.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\obj\Debug\ForEachIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\obj\Debug\ForEachIndex.csproj.CoreCompileInputs.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\obj\Debug\ForEachIndex.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\ForEachIndex\obj\Debug\ForEachIndex.pdb
