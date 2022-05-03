@@ -1,0 +1,7 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\Iterations\bin\Debug\Iterations.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\Iterations\bin\Debug\Iterations.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\Iterations\obj\Debug\Iterations.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\Iterations\obj\Debug\Iterations.pdb
