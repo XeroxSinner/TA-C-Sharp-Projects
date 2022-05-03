@@ -28,6 +28,18 @@ namespace ExceptionHandling
             {
                 Console.WriteLine(ex.Message);
             }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Errorrrrrr.");
+            }
+            finally
+            {
+                Console.ReadLine();
+            }
 
             Console.ReadLine();
         }
