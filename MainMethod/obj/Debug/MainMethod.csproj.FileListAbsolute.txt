@@ -1,0 +1,8 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.pdb
