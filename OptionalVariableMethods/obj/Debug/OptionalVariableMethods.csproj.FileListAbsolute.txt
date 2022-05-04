@@ -1,0 +1,8 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\bin\Debug\OptionalVariableMethods.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\bin\Debug\OptionalVariableMethods.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\bin\Debug\OptionalVariableMethods.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\obj\Debug\OptionalVariableMethods.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\obj\Debug\OptionalVariableMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\obj\Debug\OptionalVariableMethods.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\obj\Debug\OptionalVariableMethods.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\OptionalVariableMethods\obj\Debug\OptionalVariableMethods.pdb
