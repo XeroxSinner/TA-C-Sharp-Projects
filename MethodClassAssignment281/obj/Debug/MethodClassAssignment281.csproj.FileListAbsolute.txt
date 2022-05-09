@@ -1,0 +1,8 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\bin\Debug\MethodClassAssignment281.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\bin\Debug\MethodClassAssignment281.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\bin\Debug\MethodClassAssignment281.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\obj\Debug\MethodClassAssignment281.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\obj\Debug\MethodClassAssignment281.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\obj\Debug\MethodClassAssignment281.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\obj\Debug\MethodClassAssignment281.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodClassAssignment281\obj\Debug\MethodClassAssignment281.pdb
