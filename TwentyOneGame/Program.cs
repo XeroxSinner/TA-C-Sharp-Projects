@@ -32,6 +32,7 @@ namespace TwentyOneGame
 
             //Instantiating a new deck
             Deck deck = new Deck();
+            deck.Shuffle(3);
             //Verifying... another foreach loop that will print each card
             foreach (Card card in deck.Cards)
             {
