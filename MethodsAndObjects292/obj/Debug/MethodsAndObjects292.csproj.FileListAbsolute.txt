@@ -1,0 +1,8 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\bin\Debug\MethodsAndObjects292.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\bin\Debug\MethodsAndObjects292.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\bin\Debug\MethodsAndObjects292.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\obj\Debug\MethodsAndObjects292.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\obj\Debug\MethodsAndObjects292.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\obj\Debug\MethodsAndObjects292.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\obj\Debug\MethodsAndObjects292.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\MethodsAndObjects292\obj\Debug\MethodsAndObjects292.pdb
