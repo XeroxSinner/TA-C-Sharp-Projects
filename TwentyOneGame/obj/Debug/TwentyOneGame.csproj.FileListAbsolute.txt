@@ -6,3 +6,11 @@ C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\TwentyOneGame\obj\D
 C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CoreCompileInputs.cache
 C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.exe
 C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\bin\Debug\TwentyOneGame.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\bin\Debug\TwentyOneGame.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\bin\Debug\TwentyOneGame.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.pdb
