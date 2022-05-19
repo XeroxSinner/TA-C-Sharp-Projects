@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClass302
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         //Utilizes abstract method from Person class and defines what it does
         public override void SayName()
@@ -14,5 +14,14 @@ namespace AbstractClass302
             Console.WriteLine("Name: " + firstName + " " + lastName);
         }
 
+        
+        public void Quit()
+        {
+            //Body for Quittable interface provided here
+            Console.WriteLine("I quit.");
+        }
+
     }
 }
+
+

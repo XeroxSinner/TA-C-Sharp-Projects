@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57C6CCE8-1AF1-4E91-8113-F8F0F1771EFE}</ProjectGuid>
+    <ProjectGuid>{EBA27E03-4C9A-4DF5-851A-C346BB1F1F75}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AbstractClass302</RootNamespace>
-    <AssemblyName>AbstractClass302</AssemblyName>
+    <RootNamespace>Polymorphism306</RootNamespace>
+    <AssemblyName>Polymorphism306</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="IQuittable.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

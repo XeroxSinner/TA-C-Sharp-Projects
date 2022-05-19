@@ -17,7 +17,14 @@ namespace AbstractClass302
 
             //Pulls SayName method, all inherited from Person class and defined in Employee class
             employee.SayName();
+            //Calls Quit() from employee, implemented via Employee Class
+            employee.Quit();
             Console.ReadLine();
+
+            
+            
+
+
         }
     }
 }
