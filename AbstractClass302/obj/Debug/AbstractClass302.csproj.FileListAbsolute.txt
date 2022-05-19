@@ -1,0 +1,8 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\bin\Debug\AbstractClass302.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\bin\Debug\AbstractClass302.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\bin\Debug\AbstractClass302.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\obj\Debug\AbstractClass302.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\obj\Debug\AbstractClass302.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\obj\Debug\AbstractClass302.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\obj\Debug\AbstractClass302.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\AbstractClass302\obj\Debug\AbstractClass302.pdb
