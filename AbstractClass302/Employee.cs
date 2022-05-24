@@ -21,7 +21,18 @@ namespace AbstractClass302
             Console.WriteLine("I quit.");
         }
 
+        public int ID { get; set; }
+
+
+        //Overriding == and !=
+        public static bool operator ==(Employee a, Employee b)
+        {
+            return a.ID == b.ID;
+        }
+
+        public static bool operator !=(Employee a, Employee b)
+        {
+            return a.ID != b.ID;
+        }
     }
 }
-
-

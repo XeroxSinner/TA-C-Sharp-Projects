@@ -31,6 +31,13 @@ namespace TwentyOneGame
             //Console.WriteLine(cardTwo.Face + " of " + cardTwo.Suit);
 
 
+            Game game = new TwentyOne();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Ny";
+            game += player;
+
+
 
 
             //Instantiating a new deck
