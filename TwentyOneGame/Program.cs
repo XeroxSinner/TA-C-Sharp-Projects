@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOneGame
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -30,6 +30,9 @@ namespace TwentyOneGame
             //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
             //Console.WriteLine(cardTwo.Face + " of " + cardTwo.Suit);
 
+
+
+
             //Instantiating a new deck
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -38,7 +41,6 @@ namespace TwentyOneGame
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
-
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
