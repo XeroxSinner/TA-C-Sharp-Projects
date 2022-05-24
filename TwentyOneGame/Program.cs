@@ -30,12 +30,12 @@ namespace TwentyOneGame
             //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
             //Console.WriteLine(cardTwo.Face + " of " + cardTwo.Suit);
 
-
-            Game game = new TwentyOne();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Ny";
-            game += player;
+            //-- Code from overload video
+            //Game game = new TwentyOne();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Ny";
+            //game += player;
 
 
 
@@ -43,6 +43,10 @@ namespace TwentyOneGame
             //Instantiating a new deck
             Deck deck = new Deck();
             deck.Shuffle(3);
+
+
+
+
             //Verifying... another foreach loop that will print each card
             foreach (Card card in deck.Cards)
             {

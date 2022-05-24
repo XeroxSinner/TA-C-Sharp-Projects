@@ -14,7 +14,7 @@ namespace AbstractClass302
             Console.WriteLine("Name: " + firstName + " " + lastName);
         }
 
-        
+
         public void Quit()
         {
             //Body for Quittable interface provided here
@@ -24,7 +24,7 @@ namespace AbstractClass302
         public int ID { get; set; }
 
 
-        //Overriding == and !=
+        //overriding == and !=
         public static bool operator ==(Employee a, Employee b)
         {
             return a.ID == b.ID;
@@ -34,5 +34,9 @@ namespace AbstractClass302
         {
             return a.ID != b.ID;
         }
+
+
+
+
     }
 }
