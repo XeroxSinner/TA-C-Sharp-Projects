@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace TwentyOneGame
 {
-    public class Card
+    public struct Card
     {
 
         public Suit Suit { get; set; }
         public Face Face { get; set; }
+
+        public override string ToString()
+        {
+            return String.Format("{0} of {1}", Face, Suit);
+        }
     }
 
     public enum Suit
