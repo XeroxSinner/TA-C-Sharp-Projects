@@ -10,8 +10,10 @@ namespace ConstructorAssign383
     {
         static void Main(string[] args)
         {
+            //Variable 
             var emp = new Employee(13);
 
+            //Constant variable creation with use below
             const string myName = "Ny";
 
             Console.WriteLine("Doesn't do much but tell you my name is {0}.", myName);
@@ -20,7 +22,7 @@ namespace ConstructorAssign383
 
         
     }
-
+    //Creating a class with two constructors, one referencing the other
     public class Employee
     {
         public int Id { get; set; }
