@@ -1,0 +1,8 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\bin\Debug\InputAssign365.exe.config
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\bin\Debug\InputAssign365.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\bin\Debug\InputAssign365.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\obj\Debug\InputAssign365.csproj.AssemblyReference.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\obj\Debug\InputAssign365.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\obj\Debug\InputAssign365.csproj.CoreCompileInputs.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\obj\Debug\InputAssign365.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\InputAssign365\obj\Debug\InputAssign365.pdb

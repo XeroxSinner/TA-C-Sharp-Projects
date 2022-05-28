@@ -1,0 +1,8 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\bin\Debug\StructAssignment331.exe.config
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\bin\Debug\StructAssignment331.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\bin\Debug\StructAssignment331.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\obj\Debug\StructAssignment331.csproj.AssemblyReference.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\obj\Debug\StructAssignment331.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\obj\Debug\StructAssignment331.csproj.CoreCompileInputs.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\obj\Debug\StructAssignment331.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\StructAssignment331\obj\Debug\StructAssignment331.pdb
