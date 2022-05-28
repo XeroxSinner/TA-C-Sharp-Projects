@@ -14,14 +14,29 @@ namespace AbstractClass302
             Console.WriteLine("Name: " + firstName + " " + lastName);
         }
 
-        
+
         public void Quit()
         {
             //Body for Quittable interface provided here
             Console.WriteLine("I quit.");
         }
 
+        public int ID { get; set; }
+
+
+        //overriding == and !=
+        public static bool operator ==(Employee a, Employee b)
+        {
+            return a.ID == b.ID;
+        }
+
+        public static bool operator !=(Employee a, Employee b)
+        {
+            return a.ID != b.ID;
+        }
+
+
+
+
     }
 }
-
-

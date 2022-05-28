@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOneGame
 {
@@ -10,38 +11,29 @@ namespace TwentyOneGame
     {
         static void Main(string[] args)
         {
-            //-- Creating a new card from the class object Card
-            //Card cardOne = new Card();
-            //cardOne.Face = "Queen";
-            //cardOne.Suit = "Spades";
 
-            //Card cardTwo = new Card();
+            Console.WriteLine("Welcome to basic card games demo. Can I get your name?");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much cash do you want to start with?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Well hey there, {0}, would you like to join a game of Blackjack?", playerName);
+            string answer = Console.ReadLine().ToLower();
 
-
-            //-- Creating a new Deck object and adding a Card to the list
-            //Deck deck = new Deck();
-            //deck.Cards = new List<Card>();
-
-            //deck.Cards.Add(cardOne);
-
-            //-- Creating a deck with the constructor added to the Deck object class
-
-
-            //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
-            //Console.WriteLine(cardTwo.Face + " of " + cardTwo.Suit);
-
-
-
-
-            //Instantiating a new deck
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-            //Verifying... another foreach loop that will print each card
-            foreach (Card card in deck.Cards)
+            if (answer == "yes" || answer == "yeah" || answer == "y")
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOne();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thanks for playing.");
             }
-            Console.WriteLine(deck.Cards.Count);
+            
+            Console.WriteLine("Right then, welp.. take care.");
             Console.ReadLine();
         }
     }
