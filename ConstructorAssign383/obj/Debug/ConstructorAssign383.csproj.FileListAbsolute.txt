@@ -1,0 +1,8 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\bin\Debug\ConstructorAssign383.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\bin\Debug\ConstructorAssign383.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\bin\Debug\ConstructorAssign383.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\obj\Debug\ConstructorAssign383.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\obj\Debug\ConstructorAssign383.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\obj\Debug\ConstructorAssign383.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\obj\Debug\ConstructorAssign383.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\ConstructorAssign383\obj\Debug\ConstructorAssign383.pdb
