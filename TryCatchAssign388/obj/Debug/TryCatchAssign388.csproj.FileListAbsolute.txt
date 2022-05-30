@@ -1,0 +1,8 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\bin\Debug\TryCatchAssign388.exe.config
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\bin\Debug\TryCatchAssign388.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\bin\Debug\TryCatchAssign388.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\obj\Debug\TryCatchAssign388.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\obj\Debug\TryCatchAssign388.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\obj\Debug\TryCatchAssign388.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\obj\Debug\TryCatchAssign388.exe
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TryCatchAssign388\obj\Debug\TryCatchAssign388.pdb
