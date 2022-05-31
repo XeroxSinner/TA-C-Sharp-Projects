@@ -22,6 +22,7 @@ namespace TwentyOneGame
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             using (StreamWriter file = new StreamWriter(@"C:\Users\nylan\OneDrive\Desktop\21Logs.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             //Removes first card from Hand list (0 index)
