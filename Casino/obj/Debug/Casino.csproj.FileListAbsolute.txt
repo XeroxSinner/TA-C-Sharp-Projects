@@ -1,0 +1,6 @@
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\Casino\bin\Debug\Casino.dll
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\Casino\bin\Debug\Casino.pdb
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\Casino\obj\Debug\Casino.dll
+C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\Casino\obj\Debug\Casino.pdb
