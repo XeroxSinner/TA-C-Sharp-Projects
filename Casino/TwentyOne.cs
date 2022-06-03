@@ -38,7 +38,7 @@ namespace Casino.TwentyOneGame
                 bool successfullyBet = player.Bet(bet);
                 if (bet < 0)
                 {
-                    throw new FraudException();
+                    throw new FraudException("That's not gonna fly.");
                 }
                 if (!successfullyBet)
                 {

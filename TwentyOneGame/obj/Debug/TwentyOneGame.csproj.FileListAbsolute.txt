@@ -17,3 +17,6 @@ C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOn
 C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\bin\Debug\Casino.dll
 C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\bin\Debug\Casino.pdb
 C:\Users\nylan\Documents\GitHub\TA-C-Sharp-Projects\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CopyComplete
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\TwentyOneGame\bin\Debug\Casino.dll
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\TwentyOneGame\bin\Debug\Casino.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\TwentyOneGame\obj\Debug\TwentyOneGame.csproj.CopyComplete
