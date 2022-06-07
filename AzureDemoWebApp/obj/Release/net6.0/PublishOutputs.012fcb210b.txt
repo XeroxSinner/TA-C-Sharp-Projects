@@ -1,0 +1,7 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\AzureDemoWebApp\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApp.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\AzureDemoWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\AzureDemoWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\AzureDemoWebApp\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApp.dll
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\AzureDemoWebApp\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApp.deps.json
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\AzureDemoWebApp\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApp.runtimeconfig.json
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\AzureDemoWebApp\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApp.pdb

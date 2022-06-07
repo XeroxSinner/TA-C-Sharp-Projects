@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+    var currentTime = DateTime.Now;
+    var dotw = currentTime.ToString("dddd");
+    var timeOnly = currentTime.ToString("hh:mm tt");
+    var tz = TimeZoneInfo.Local;
+    //var local = TimeZoneInfo.ConvertTimeFromUtc(currentTime tz);
+
+}
+
+<div class="text-center">
+    
+    <h2 class="display-4">
+
+        This server runs off @tz. <br />
+                Today is @dotw.<br />
+        The time is @timeOnly.
+
+    
+    
+    </h2>
+    <p></p>
+    <button type="button" class="btn btn-dark btn-outline-danger btn-lg" onclick="window.location.reload();">Click to Refresh</button>
+</div>

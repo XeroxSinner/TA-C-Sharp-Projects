@@ -1,0 +1,13 @@
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\obj\Debug\EFDemoAsign546.csproj.AssemblyReference.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\obj\Debug\EFDemoAsign546.csproj.SuggestedBindingRedirects.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\obj\Debug\EFDemoAsign546.csproj.CoreCompileInputs.cache
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\bin\Debug\EFDemoAsign546.exe.config
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\bin\Debug\EFDemoAsign546.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\bin\Debug\EFDemoAsign546.pdb
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\bin\Debug\EntityFramework.dll
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\bin\Debug\EntityFramework.xml
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\obj\Debug\EFDemoAsign546.csproj.CopyComplete
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\obj\Debug\EFDemoAsign546.exe
+C:\Users\nylan\OneDrive\Documents\GitHub\TA-C-Sharp-Projects\EFDemoAsign546\obj\Debug\EFDemoAsign546.pdb
